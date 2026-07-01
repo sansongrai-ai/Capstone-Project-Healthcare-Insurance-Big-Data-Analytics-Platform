@@ -1,0 +1,13 @@
+SELECT * FROM project_output.max_disease_claims;
+SELECT * FROM project_output.subscribers_under_30 LIMIT 5;
+SELECT * FROM project_output.group_max_subgroups;
+SELECT * FROM project_output.top_hospital_patients;
+SELECT * FROM project_output.top_subscribed_subgroups;
+SELECT * FROM project_output.rejected_claims_count;
+SELECT * FROM project_output.top_claim_cities;
+SELECT * FROM project_output.most_subscribed_policy_type;
+SELECT * FROM project_output.avg_monthly_premium;
+SELECT * FROM project_output.most_profitable_group;
+SELECT * FROM project_output.minor_cancer_patients LIMIT 5;
+SELECT * FROM project_output.cashless_high_charges LIMIT 5;
+SELECT * FROM project_output.female_knee_surgery_over_40 LIMIT 5;
